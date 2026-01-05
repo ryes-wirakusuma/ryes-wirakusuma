@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ryes%20wiea%20kusma" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ryes%20wira%20kusma" />
 
 I'm Ryes Wira Kusuma, a Information System student
 
