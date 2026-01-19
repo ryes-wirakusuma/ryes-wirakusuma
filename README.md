@@ -97,11 +97,9 @@ I'm Ryes Wira Kusuma, a Information System student
 ![](https://github-readme-stats.vercel.app/api?username=ryes-wirakusuma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ryes-wirakusuma&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryes-wirakusuma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://raw.githubusercontent.com/ryes-wirakusuma/ryes-wirakusuma/output/snake.svg" alt="Snake animation" />
 
----
-[![](https://visitcount.itsvg.in/api?id=ryes-wirakusuma&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryes-wirakusuma/ryes-wirakusuma/output/pacman-contribution-graph-dark.svg">
